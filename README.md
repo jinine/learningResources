@@ -14,7 +14,6 @@ This document contains a list of useful online resources.
 ## Design Patterns
 
 - [Derek Banas Design Pattern Playlist](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07&ab_channel=DerekBanas)
-- [Resource Name](Resource Link)
 
 ## Other Resources
 
