@@ -5,7 +5,6 @@ This document contains a list of useful online resources.
 ## Programming Languages
 
 - [C Programming](https://www.youtube.com/watch?v=2NWeucMKrLI&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq&ab_channel=thenewboston)
-- [Resource Name](Resource Link)
 - [C++ Programming](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83&ab_channel=thenewboston)
 
 ## Web Development
