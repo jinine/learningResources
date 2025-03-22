@@ -24,3 +24,4 @@ This document contains a list of useful online resources.
 - [Unreal UDK (Derek Banas)](https://www.youtube.com/watch?v=K7AAgQHJWGc&list=PLFF967D7CA020E636&ab_channel=thenewboston)
 - [Computer Build(Derek Banas)](https://www.youtube.com/watch?v=NNbEBARu6LY&list=PLC315B2A086BA6AAF&ab_channel=thenewboston)
 - [NixOs on DigitalOcean (blog post)](https://justinas.org/nixos-in-the-cloud-step-by-step-part-1)
+- [Scalable NixOS with Terraform (part-2)](https://justinas.org/nixos-in-the-cloud-step-by-step-part-2)
