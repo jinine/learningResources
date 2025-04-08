@@ -1,0 +1,216 @@
+Data Structures:
+Arrays
+
+Dynamic arrays
+
+Multi-dimensional arrays
+
+Linked Lists
+
+Singly Linked List
+
+Doubly Linked List
+
+Circular Linked List
+
+Stacks
+
+Stack using an array
+
+Stack using a linked list
+
+Stack operations (push, pop, peek)
+
+Queues
+
+Regular Queue (FIFO)
+
+Circular Queue
+
+Priority Queue (Min/Max heap)
+
+Hash Tables (Hash Maps)
+
+Hash map implementation using arrays
+
+Collision handling techniques (chaining, open addressing)
+
+Trees
+
+Binary Tree
+
+Binary Search Tree (BST)
+
+AVL Tree (Self-balancing Binary Search Tree)
+
+Heap (Min/Max Heap)
+
+Trie (Prefix Tree)
+
+Graphs
+
+Representation (adjacency matrix, adjacency list)
+
+Directed/Undirected Graph
+
+Weighted/Unweighted Graph
+
+Sets
+
+Union, intersection, difference
+
+Disjoint sets (Union-Find)
+
+Linked List Variations
+
+Skip List
+
+Doubly Linked List with circular references
+
+Algorithms:
+Sorting Algorithms
+
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+Heap Sort
+
+Radix Sort
+
+Counting Sort
+
+Searching Algorithms
+
+Linear Search
+
+Binary Search (on sorted arrays)
+
+Depth-First Search (DFS) (graph traversal)
+
+Breadth-First Search (BFS) (graph traversal)
+
+Dynamic Programming
+
+Fibonacci Sequence
+
+Knapsack Problem
+
+Longest Common Subsequence (LCS)
+
+Longest Increasing Subsequence (LIS)
+
+Coin Change Problem
+
+Rod Cutting Problem
+
+Greedy Algorithms
+
+Activity Selection Problem
+
+Fractional Knapsack Problem
+
+Huffman Encoding
+
+Backtracking
+
+N-Queens Problem
+
+Sudoku Solver
+
+Subset Sum Problem
+
+Permutations and Combinations
+
+Divide and Conquer
+
+Merge Sort (also covered above)
+
+Quick Sort (also covered above)
+
+Binary Search (also covered above)
+
+Closest Pair of Points
+
+String Algorithms
+
+String Matching Algorithms (Naive, Rabin-Karp, Knuth-Morris-Pratt)
+
+Longest Palindromic Substring
+
+Anagram Detection
+
+Z-Algorithm
+
+Graph Algorithms
+
+Dijkstra’s Algorithm (Shortest Path)
+
+Bellman-Ford Algorithm (Shortest Path)
+
+Floyd-Warshall Algorithm (All pairs shortest path)
+
+Topological Sorting
+
+Kruskal’s Algorithm (Minimum Spanning Tree)
+
+Prim’s Algorithm (Minimum Spanning Tree)
+
+Bit Manipulation
+
+Counting Set Bits
+
+Checking if a number is a power of two
+
+Swapping numbers using XOR
+
+Finding the two non-repeating elements in an array
+
+Mathematical Algorithms
+
+Sieve of Eratosthenes (Finding primes)
+
+GCD (Greatest Common Divisor)
+
+LCM (Least Common Multiple)
+
+Fast Exponentiation (Exponentiation by Squaring)
+
+Modular Arithmetic
+
+Advanced Topics:
+Trie
+
+Autocomplete/Prefix matching
+
+Dictionary implementation
+
+Segment Tree
+
+Range sum queries
+
+Range minimum queries
+
+Fenwick Tree (Binary Indexed Tree)
+
+Point updates and range queries
+
+Graph Algorithms (Advanced)
+
+Floyd-Warshall Algorithm (All pairs shortest path)
+
+A* Search Algorithm
+
+String Matching Algorithms
+
+KMP (Knuth-Morris-Pratt)
+
+Z-Algorithm
+
+Rabin-Karp Algorithm
