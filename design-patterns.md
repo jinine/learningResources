@@ -1,5 +1,3 @@
----
-
 ### 🏭 **Factory Pattern**
 **Purpose:** Create objects without specifying the exact class.
 ```ts
@@ -133,5 +131,3 @@ class Service {
 // logger is injected instead of created internally
 const service = new Service(new Logger());
 ```
-
----
