@@ -1,0 +1,33 @@
+ Addressing Correction:
+
+- Manually set your WB in-camera, you can use a grey card or eyeball it, but whatever you do, don't use auto WB, the reason is if you are recording and moving your WB will be changing the whole time causing a headache later.
+
+- So you got your settings right and now you are in your editor. Are you shooting in a Rec709 format or a flat profile?
+
+If flat, you will have to convert it to a rec709 color space using a LUT or adding the saturation and contrast manually. All a flat profile is doing is preserving details in the highlights and shadows.
+
+If rec709 (just standard formatting) then everything in this step will be subjective and you will have to decide what looks good.
+
+- White balancing in your editor can be done using an eyedropper and selecting a neutral spot, (white or grey) or manually. Imo, white balance is the biggest thing that threw me off for the longest time. You white balance with blue/orange (warm and cool) and green and magenta. Play with the blue/orange first, see if you can get it looking close to normal, then if it still looks funky play with the green and magenta one. I didnt touch green/magenta for a while but I shoot sony and when I realized sony shoots a little green and started bringing magenta back I was blown away lol.
+
+Over time you will get an eye for what colors are in the overall shot and get better at correcting them quicker, just takes time unfortunately.
+
+So now our shot looks "normal", people have different workflows but I usually try to get my shot looking as close to what I saw when I was shooting as possible before grading. Remember too, it's stylistic, some people warm their shots up because that's what they saw or how they want it to look. I got so hung up for so long thinking that I had to make every single shot look absolutely perfect, but you don't, and you never will.
+
+Addressing Grading:
+
+- Grading is the fun part of color, where you add your style. There's so many ways to change the color, with wheels, curves, etc. that you really just have to explore. You can try LUTs at this step but do not put a LUT on 100% lol. That's a dead giveaway that someone has no clue what they're doing and it looks tacky imo. Unless you want that dramatic travel vlogger look.
+
+I would use LUTs just to see what styles are popular, one you can look up and try to replicate is Teal and Orange. Which is pushing teal into the shadows and orange into the midtones with color wheels.
+
+- This video right here has helped me so much, I've watched it so many times because there are some great tips in here, and his whole channel is just an amazing resource.
+
+- Last point brings me to my next one, I was a premiere user, and I still use After Effects a lot. I was reluctant to try Davinci because I didn't want to have to relearn another program but for the love of god if you switch to Davinci color will be so much more fun for you and make the process way more intuitive.
+
+Davinci wasn't always an NLE it used to be strictly for color and it's amazing at it. One of my favorite things is how it handles Slog footage. I shoot on an A7iii which shoots 8Bit footage, not the best for grading, and premiere (lumetri color) absolutely destroyed my footage and made it look terrible. While it couldve been me, I just never got the color I wanted from Premiere and I think Davinci is leagues better than PP.
+
+My last optional tip is, if you shoot a lot of people, and talking head stuff get a color checker.
+
+It helps you nail skin tones that are tricky to get right and people notice immediately when their skin isn't accurate. One of the best investments I made video-wise for sure. This is a cheaper alternative if you have a limited budget.
+
+Hopefully, this gave some clarity, overall, just remember there's nothing magic going on, and you get out what you change in the settings. Keep watching youtube and one day it will literally just click. If you have any clips you want me to look at and give you feedback I'm happy to do that too! 
